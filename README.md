@@ -1,20 +1,19 @@
- Hi, I'm Tracy Mncube 
+Tracy Mncube – Junior Data Analyst
 
-Aspiring Data Analyst based in Johannesburg, South Africa.
+ Aspiring Data Analyst with a Diploma in IT and certifications in Google Data Analytics & Cisco Data Science.
 
-I am passionate about transforming raw data into meaningful insights that support business decision-making.
+ Skills
+- Excel (Data Cleaning, Pivot Tables)
+- SQL (Joins, Aggregations)
+- Power BI (Dashboards & Data Visualization)
+- Python (Pandas - Beginner)
 
-Currently completing:
-- Google Data Analytics Certificate
-- Power BI
-- AWS Cloud Practioner
-- Cisco Data Science Certification (Completed)
+Projects
+- Sales Dashboard Analysis (Power BI)
+- Healthcare Data Analysis
+- SQL Case Study
+- App User Analytics
 
-Technical Skills:
-- Excel (Data Cleaning, Pivot Tables, Dashboards)
-- SQL (Joins, Aggregations, Subqueries)
-- Power BI (Data Modeling, DAX, Interactive Dashboards)
-- Python (Pandas, Data Cleaning, Visualization)
-
-I am actively seeking Junior Data Analyst opportunities.
-be
+ Contact
+- LinkedIn: https://www.linkedin.com/in/tracy-mncube-data
+- lungelotracy93@gmail.com
